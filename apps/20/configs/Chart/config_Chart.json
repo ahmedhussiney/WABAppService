@@ -1,0 +1,50 @@
+{
+  "charts": [
+    {
+      "url": "https://sampleserver6.arcgisonline.com/arcgis/rest/services/Wildfire/FeatureServer/2",
+      "filter": {
+        "logicalOperator": "AND",
+        "parts": [],
+        "expr": "1=1"
+      },
+      "name": "Wildfire - Wildfire Response Polygons",
+      "description": "",
+      "mode": "feature",
+      "symbol": {
+        "color": [
+          155,
+          187,
+          89,
+          128
+        ],
+        "outline": {
+          "color": [
+            115,
+            140,
+            61,
+            255
+          ],
+          "width": 1.5,
+          "type": "esriSLS",
+          "style": "esriSLSSolid"
+        },
+        "type": "esriSFS",
+        "style": "esriSFSSolid"
+      },
+      "highLightColor": "#ff0000",
+      "webMapLayerId": "Wildfire_4589",
+      "column": {
+        "colors": [
+          "#5d9cd3"
+        ],
+        "horizontalAxis": true,
+        "verticalAxis": true
+      },
+      "labelField": "description",
+      "valueFields": [
+        "symbolid"
+      ],
+      "sortOrder": "asc"
+    }
+  ]
+}

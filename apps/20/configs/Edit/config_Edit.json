@@ -1,0 +1,44 @@
+{
+  "editor": {
+    "enableUndoRedo": true,
+    "toolbarVisible": true,
+    "toolbarOptions": {
+      "mergeVisible": true,
+      "cutVisible": true,
+      "reshapeVisible": true
+    },
+    "layerInfos": [
+      {
+        "featureLayer": {
+          "id": "Wildfire_4589"
+        },
+        "disableGeometryUpdate": false,
+        "fieldInfos": [
+          {
+            "fieldName": "objectid",
+            "label": "OBJECTID",
+            "isEditable": null,
+            "visible": true
+          },
+          {
+            "fieldName": "symbolid",
+            "label": "symbolID",
+            "isEditable": true,
+            "visible": true
+          },
+          {
+            "fieldName": "description",
+            "label": "Description",
+            "isEditable": true,
+            "visible": true
+          }
+        ]
+      }
+    ],
+    "useFilterEdit": false,
+    "autoApplyEditWhenGeometryIsMoved": false,
+    "snappingTolerance": 15,
+    "popupTolerance": 5,
+    "stickyMoveTolerance": 0
+  }
+}

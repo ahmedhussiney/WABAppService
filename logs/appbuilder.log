@@ -1,0 +1,1010 @@
+[2016-10-11 19:06:57.154] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-11 19:06:58.823] [INFO] app - Find 5 predfinded apps.
+[2016-10-11 19:06:58.884] [INFO] repo - insert HTML.About
+[2016-10-11 19:06:58.885] [INFO] repo - insert HTML.AddData
+[2016-10-11 19:06:58.887] [INFO] repo - insert HTML.Analysis
+[2016-10-11 19:06:58.889] [INFO] repo - insert HTML.AttributeTable
+[2016-10-11 19:06:58.890] [INFO] repo - insert HTML.BasemapGallery
+[2016-10-11 19:06:58.894] [INFO] repo - insert HTML.BatchAttributeEditor
+[2016-10-11 19:06:58.897] [INFO] repo - insert HTML.Bookmark
+[2016-10-11 19:06:58.899] [INFO] repo - insert HTML.Chart
+[2016-10-11 19:06:58.901] [INFO] repo - insert HTML.Coordinate
+[2016-10-11 19:06:58.903] [INFO] repo - insert HTML.Directions
+[2016-10-11 19:06:58.904] [INFO] repo - insert HTML.DistrictLookup
+[2016-10-11 19:06:58.906] [INFO] repo - insert HTML.Draw
+[2016-10-11 19:06:58.907] [INFO] repo - insert HTML.Edit
+[2016-10-11 19:06:58.909] [INFO] repo - insert HTML.Filter
+[2016-10-11 19:06:58.910] [INFO] repo - insert HTML.GeoLookup
+[2016-10-11 19:06:58.912] [INFO] repo - insert HTML.Geoprocessing
+[2016-10-11 19:06:58.913] [INFO] repo - insert HTML.GroupFilter
+[2016-10-11 19:06:58.915] [INFO] repo - insert HTML.HomeButton
+[2016-10-11 19:06:58.917] [INFO] repo - insert HTML.ImageMeasurement
+[2016-10-11 19:06:58.919] [INFO] repo - insert HTML.IncidentAnalysis
+[2016-10-11 19:06:58.921] [INFO] repo - insert HTML.InfoSummary
+[2016-10-11 19:06:58.922] [INFO] repo - insert HTML.LayerList
+[2016-10-11 19:06:58.924] [INFO] repo - insert HTML.Legend
+[2016-10-11 19:06:58.925] [INFO] repo - insert HTML.Measurement
+[2016-10-11 19:06:58.926] [INFO] repo - insert HTML.MyLocation
+[2016-10-11 19:06:58.927] [INFO] repo - insert HTML.NearMe
+[2016-10-11 19:06:58.929] [INFO] repo - insert HTML.ObliqueViewer
+[2016-10-11 19:06:58.938] [INFO] repo - insert HTML.OverviewMap
+[2016-10-11 19:06:58.940] [INFO] repo - insert HTML.Print
+[2016-10-11 19:06:58.943] [INFO] repo - insert HTML.Query
+[2016-10-11 19:06:58.947] [INFO] repo - insert HTML.RelatedTableCharts
+[2016-10-11 19:06:58.950] [INFO] repo - insert HTML.ReportFeature
+[2016-10-11 19:06:58.953] [INFO] repo - insert HTML.ReviewerDashboard
+[2016-10-11 19:06:58.955] [INFO] repo - insert HTML.Scalebar
+[2016-10-11 19:06:58.959] [INFO] repo - insert HTML.Search
+[2016-10-11 19:06:58.965] [INFO] repo - insert HTML.Select
+[2016-10-11 19:06:58.967] [INFO] repo - insert HTML.Share
+[2016-10-11 19:06:58.969] [INFO] repo - insert HTML.SituationAwareness
+[2016-10-11 19:06:58.971] [INFO] repo - insert HTML.SmartEditor
+[2016-10-11 19:06:58.973] [INFO] repo - insert HTML.Splash
+[2016-10-11 19:06:58.975] [INFO] repo - insert HTML.Stream
+[2016-10-11 19:06:58.981] [INFO] repo - insert HTML.Summary
+[2016-10-11 19:06:58.983] [INFO] repo - insert HTML.Swipe
+[2016-10-11 19:06:58.985] [INFO] repo - insert HTML.TimeSlider
+[2016-10-11 19:06:58.987] [INFO] repo - insert HTML.ZoomSlider
+[2016-10-11 19:06:58.992] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-11 19:06:59.324] [INFO] repo - insert HTML.BillboardTheme
+[2016-10-11 19:06:59.326] [INFO] repo - insert HTML.BoxTheme
+[2016-10-11 19:06:59.330] [INFO] repo - insert HTML.DartTheme
+[2016-10-11 19:06:59.333] [INFO] repo - insert HTML.FoldableTheme
+[2016-10-11 19:06:59.335] [INFO] repo - insert HTML.JewelryBoxTheme
+[2016-10-11 19:06:59.338] [INFO] repo - insert HTML.LaunchpadTheme
+[2016-10-11 19:06:59.341] [INFO] repo - insert HTML.PlateauTheme
+[2016-10-11 19:06:59.344] [INFO] repo - insert HTML.TabTheme
+[2016-10-11 19:06:59.347] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-11 19:06:59.980] [INFO] repo - insert HTML3D.3DFx
+[2016-10-11 19:06:59.982] [INFO] repo - insert HTML3D.About
+[2016-10-11 19:06:59.983] [INFO] repo - insert HTML3D.Environment
+[2016-10-11 19:06:59.986] [INFO] repo - insert HTML3D.Coordinate
+[2016-10-11 19:06:59.989] [INFO] repo - insert HTML3D.Compass
+[2016-10-11 19:06:59.992] [INFO] repo - insert HTML3D.FullScreen
+[2016-10-11 19:06:59.994] [INFO] repo - insert HTML3D.Home
+[2016-10-11 19:06:59.997] [INFO] repo - insert HTML3D.LayerList
+[2016-10-11 19:07:00.001] [INFO] repo - insert HTML3D.Navigate
+[2016-10-11 19:07:00.005] [INFO] repo - insert HTML3D.Search
+[2016-10-11 19:07:00.009] [INFO] repo - insert HTML3D.MyLocation
+[2016-10-11 19:07:00.013] [INFO] repo - insert HTML3D.Slides
+[2016-10-11 19:07:00.015] [INFO] repo - insert HTML3D.ZoomSlider
+[2016-10-11 19:07:00.019] [INFO] repo - insert HTML3D.Splash
+[2016-10-11 19:07:00.022] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-11 19:07:00.408] [INFO] repo - insert HTML3D.FoldableTheme
+[2016-10-11 19:07:00.410] [INFO] repo - insert HTML3D.DartTheme
+[2016-10-11 19:07:00.412] [INFO] repo - insert HTML3D.JewelryBoxTheme
+[2016-10-11 19:07:00.415] [INFO] repo - insert HTML3D.BoxTheme
+[2016-10-11 19:07:00.419] [INFO] repo - insert HTML3D.LaunchpadTheme
+[2016-10-11 19:07:00.421] [INFO] repo - insert HTML3D.BillboardTheme
+[2016-10-11 19:07:00.425] [INFO] repo - insert HTML3D.TabTheme
+[2016-10-11 19:07:01.115] [INFO] server - No portal URL is set, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2016-10-11 19:07:01.201] [INFO] server - Set isXT = true;
+[2016-10-12 10:27:17.544] [INFO] server - Set isXT = true;
+[2016-10-12 11:27:14.320] [INFO] server - Set isXT = true;
+[2016-10-12 11:52:13.388] [INFO] server - Set isXT = true;
+[2016-10-12 12:01:26.337] [INFO] server - Set isXT = true;
+[2016-10-12 12:03:08.022] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 12:03:08.867] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 12:03:08.883] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 12:03:08.918] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 12:03:08.923] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 12:03:08.926] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 12:03:08.930] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 12:03:08.934] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 12:03:08.941] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 12:03:08.949] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 12:03:08.953] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 12:03:08.957] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 12:03:08.974] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 12:03:08.978] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 12:03:08.983] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 12:03:09.003] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 12:03:09.293] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 12:03:09.448] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 12:03:09.618] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 12:03:09.787] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 12:03:09.943] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 12:03:10.024] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 12:03:10.154] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 12:03:10.372] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 12:03:10.529] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 12:03:10.593] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 12:03:10.809] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 12:03:11.479] [INFO] server - Set isXT = true;
+[2016-10-12 12:03:27.541] [INFO] server - Set isXT = true;
+[2016-10-12 13:39:46.059] [INFO] server - Set isXT = true;
+[2016-10-12 13:39:54.935] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\BoxTheme
+[2016-10-12 13:40:10.833] [INFO] server - Set isXT = true;
+[2016-10-12 13:40:26.848] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\BillboardTheme
+[2016-10-12 13:40:33.416] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\DartTheme
+[2016-10-12 13:40:39.130] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\JewelryBoxTheme
+[2016-10-12 13:40:45.403] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\LaunchpadTheme
+[2016-10-12 13:40:51.255] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\PlateauTheme
+[2016-10-12 13:40:56.165] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\TabTheme
+[2016-10-12 13:51:58.685] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Select
+[2016-10-12 13:56:26.286] [INFO] app - remove theme BillboardTheme from app 2
+[2016-10-12 13:56:26.556] [INFO] app - remove theme DartTheme from app 2
+[2016-10-12 13:56:26.910] [INFO] app - remove theme FoldableTheme from app 2
+[2016-10-12 13:56:27.228] [INFO] app - remove theme JewelryBoxTheme from app 2
+[2016-10-12 13:56:27.607] [INFO] app - remove theme LaunchpadTheme from app 2
+[2016-10-12 13:56:27.894] [INFO] app - remove theme PlateauTheme from app 2
+[2016-10-12 13:56:28.311] [INFO] app - remove theme TabTheme from app 2
+[2016-10-12 13:56:28.475] [INFO] app - remove widget Search from app 2
+[2016-10-12 13:56:28.684] [INFO] app - remove widget Select from app 2
+[2016-10-12 13:57:41.400] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\BillboardTheme
+[2016-10-12 13:57:41.561] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 13:57:41.766] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Select
+[2016-10-12 13:57:53.689] [INFO] app - remove theme BoxTheme from app 2
+[2016-10-12 13:57:53.878] [INFO] app - remove widget AttributeTable from app 2
+[2016-10-12 14:00:26.542] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 14:00:26.931] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 14:00:37.257] [INFO] app - remove theme BillboardTheme from app 2
+[2016-10-12 14:00:37.434] [INFO] app - remove widget Select from app 2
+[2016-10-12 14:29:22.445] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\RelatedTableCharts
+[2016-10-12 15:23:41.930] [INFO] server - Set isXT = true;
+[2016-10-12 15:24:26.742] [INFO] server - Set isXT = true;
+[2016-10-12 15:24:40.937] [INFO] server - Set isXT = true;
+[2016-10-12 15:25:34.843] [INFO] server - Set isXT = true;
+[2016-10-12 15:26:56.512] [INFO] server - Set isXT = true;
+[2016-10-12 15:27:32.822] [INFO] server - Set isXT = true;
+[2016-10-12 15:28:51.015] [INFO] server - Set isXT = true;
+[2016-10-12 15:29:17.235] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=2 to /webappbuilder/apps/2
+[2016-10-12 15:29:37.091] [INFO] server - Set isXT = true;
+[2016-10-12 15:29:41.337] [INFO] server - Set isXT = true;
+[2016-10-12 15:31:47.916] [INFO] server - Set isXT = true;
+[2016-10-12 15:32:42.666] [INFO] server - Set isXT = true;
+[2016-10-12 15:35:07.092] [INFO] server - Set isXT = true;
+[2016-10-12 15:42:23.035] [INFO] server - Set isXT = true;
+[2016-10-12 15:43:38.494] [INFO] server - Set isXT = true;
+[2016-10-12 15:45:00.669] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\BoxTheme
+[2016-10-12 15:45:18.780] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\BillboardTheme
+[2016-10-12 15:49:00.666] [INFO] server - Set isXT = true;
+[2016-10-12 15:49:57.086] [INFO] server - Set isXT = true;
+[2016-10-12 15:54:46.888] [INFO] server - Set isXT = true;
+[2016-10-12 15:54:53.742] [INFO] server - Set isXT = true;
+[2016-10-12 15:55:15.357] [INFO] server - Set isXT = true;
+[2016-10-12 15:57:53.368] [INFO] server - Set isXT = true;
+[2016-10-12 15:58:03.215] [INFO] server - Set isXT = true;
+[2016-10-12 16:01:03.939] [INFO] server - Set isXT = true;
+[2016-10-12 16:02:45.768] [INFO] server - Set isXT = true;
+[2016-10-12 16:03:44.869] [INFO] server - Set isXT = true;
+[2016-10-12 16:04:17.394] [INFO] server - Set isXT = true;
+[2016-10-12 16:12:27.815] [INFO] server - Set isXT = true;
+[2016-10-12 16:14:03.016] [INFO] server - Set isXT = true;
+[2016-10-12 16:15:10.921] [INFO] server - Set isXT = true;
+[2016-10-12 16:17:21.760] [INFO] server - Set isXT = true;
+[2016-10-12 16:17:26.287] [INFO] server - Set isXT = true;
+[2016-10-12 16:19:05.879] [INFO] server - Set isXT = true;
+[2016-10-12 16:19:42.729] [INFO] server - Set isXT = true;
+[2016-10-12 16:20:55.979] [INFO] server - Set isXT = true;
+[2016-10-12 16:21:18.745] [INFO] server - Set isXT = true;
+[2016-10-12 16:21:51.532] [INFO] server - Set isXT = true;
+[2016-10-12 16:22:35.654] [INFO] server - Set isXT = true;
+[2016-10-12 16:22:52.779] [INFO] server - Set isXT = true;
+[2016-10-12 16:23:29.433] [INFO] server - Set isXT = true;
+[2016-10-12 16:24:12.965] [INFO] server - Set isXT = true;
+[2016-10-12 16:24:33.586] [INFO] server - Set isXT = true;
+[2016-10-12 16:25:32.016] [INFO] server - Set isXT = true;
+[2016-10-12 16:26:09.398] [INFO] server - Set isXT = true;
+[2016-10-12 16:26:55.663] [INFO] server - Set isXT = true;
+[2016-10-12 16:29:10.606] [INFO] server - Set isXT = true;
+[2016-10-12 16:29:53.669] [INFO] server - Set isXT = true;
+[2016-10-12 16:31:19.327] [INFO] server - Set isXT = true;
+[2016-10-12 16:33:08.239] [INFO] server - Set isXT = true;
+[2016-10-12 16:35:14.950] [INFO] server - Set isXT = true;
+[2016-10-12 16:44:32.263] [INFO] server - Set isXT = true;
+[2016-10-12 16:45:58.779] [INFO] server - Set isXT = true;
+[2016-10-12 16:49:37.340] [INFO] server - Set isXT = true;
+[2016-10-12 18:03:00.029] [INFO] server - Set isXT = true;
+[2016-10-12 18:03:38.259] [INFO] server - Set isXT = true;
+[2016-10-12 18:06:15.939] [INFO] server - No portal URL is set, redirect /webappbuilder/?id=stemapp to /webappbuilder/?id=stemapp&action=setportalurl
+[2016-10-12 18:06:15.995] [INFO] server - Set isXT = true;
+[2016-10-12 18:06:34.562] [INFO] server - Set isXT = true;
+[2016-10-12 18:06:39.328] [INFO] server - Set isXT = true;
+[2016-10-12 18:15:58.118] [INFO] server - Set isXT = true;
+[2016-10-12 18:17:46.068] [INFO] server - Set isXT = true;
+[2016-10-12 18:19:00.278] [INFO] server - Set isXT = true;
+[2016-10-12 18:19:14.410] [INFO] server - Set isXT = true;
+[2016-10-12 18:20:35.969] [INFO] server - Set isXT = true;
+[2016-10-12 18:22:44.445] [INFO] server - Set isXT = true;
+[2016-10-12 18:22:49.587] [INFO] server - Set isXT = true;
+[2016-10-12 18:25:21.152] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 18:25:22.130] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 18:25:22.186] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 18:25:22.219] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 18:25:22.223] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 18:25:22.226] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 18:25:22.231] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 18:25:22.233] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 18:25:22.235] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 18:25:22.243] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 18:25:22.247] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 18:25:22.249] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 18:25:22.255] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 18:25:22.257] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 18:25:22.260] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 18:25:22.274] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 18:25:22.586] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 18:25:22.741] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 18:25:22.907] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 18:25:23.121] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 18:25:23.308] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 18:25:23.397] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 18:25:23.577] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 18:25:23.853] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 18:25:24.031] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 18:25:24.108] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 18:25:24.453] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 18:25:25.879] [INFO] server - Set isXT = true;
+[2016-10-12 18:26:02.537] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Stream
+[2016-10-12 18:26:02.885] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Summary
+[2016-10-12 18:26:03.093] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Swipe
+[2016-10-12 18:26:03.345] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\TimeSlider
+[2016-10-12 18:27:07.521] [INFO] app - App removed, id: 2
+[2016-10-12 19:35:41.204] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 19:35:42.206] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 19:35:42.224] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 19:35:42.260] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 19:35:42.264] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 19:35:42.269] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 19:35:42.272] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 19:35:42.274] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 19:35:42.277] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 19:35:42.287] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 19:35:42.291] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 19:35:42.293] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 19:35:42.302] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 19:35:42.305] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 19:35:42.307] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 19:35:42.321] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 19:35:42.632] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 19:35:42.773] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 19:35:43.045] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 19:35:43.212] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 19:35:43.351] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 19:35:43.428] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 19:35:43.558] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 19:35:43.802] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 19:35:43.999] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 19:35:44.072] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 19:35:44.202] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 19:35:45.046] [INFO] server - Set isXT = true;
+[2016-10-12 19:40:28.895] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-12 19:40:31.345] [INFO] repo - insert HTML.Demo
+[2016-10-12 19:40:31.360] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-12 19:40:32.784] [INFO] server - Set isXT = true;
+[2016-10-12 19:40:32.900] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-12 19:40:34.102] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-12 19:40:52.853] [INFO] app - App removed, id: 3
+[2016-10-12 19:41:17.094] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 19:41:17.692] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 19:41:17.708] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 19:41:17.730] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 19:41:17.730] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 19:41:17.746] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 19:41:17.746] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 19:41:17.746] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 19:41:17.746] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 19:41:17.761] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 19:41:17.761] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 19:41:17.761] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 19:41:17.777] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 19:41:17.777] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 19:41:17.777] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 19:41:17.793] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 19:41:18.030] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 19:41:18.130] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 19:41:18.308] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 19:41:18.446] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 19:41:18.578] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 19:41:18.631] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 19:41:18.747] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 19:41:18.894] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 19:41:19.110] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 19:41:19.179] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 19:41:19.295] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 19:41:19.893] [INFO] server - Set isXT = true;
+[2016-10-12 19:42:10.384] [INFO] server - Set isXT = true;
+[2016-10-12 19:42:14.807] [INFO] server - Set isXT = true;
+[2016-10-12 19:42:33.772] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Demo
+[2016-10-12 19:49:16.804] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\BillboardTheme
+[2016-10-12 19:51:57.626] [INFO] app - remove theme FoldableTheme from app 5
+[2016-10-12 19:51:57.761] [INFO] app - remove widget AttributeTable from app 5
+[2016-10-12 19:54:27.662] [INFO] server - Set isXT = true;
+[2016-10-12 20:24:15.722] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-12 20:24:17.764] [INFO] repo - insert HTML.Add Layer
+[2016-10-12 20:24:17.769] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-12 20:24:18.148] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-12 20:24:18.679] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-12 20:24:19.460] [INFO] server - Set isXT = true;
+[2016-10-12 20:24:29.537] [INFO] server - Set isXT = true;
+[2016-10-12 20:24:34.966] [INFO] server - Set isXT = true;
+[2016-10-12 20:24:48.883] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Add Layer
+[2016-10-12 20:24:53.177] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Add Layer
+[2016-10-12 20:25:23.623] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Add Layer
+[2016-10-12 20:27:23.223] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-12 20:27:25.296] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-12 20:27:25.693] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-12 20:27:26.231] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-12 20:27:27.039] [INFO] server - Set isXT = true;
+[2016-10-12 20:27:48.053] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 20:27:48.616] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 20:27:48.626] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 20:27:48.656] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 20:27:48.659] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 20:27:48.663] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 20:27:48.667] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 20:27:48.670] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 20:27:48.673] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 20:27:48.680] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 20:27:48.683] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 20:27:48.688] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 20:27:48.696] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 20:27:48.700] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 20:27:48.706] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 20:27:48.724] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 20:27:48.989] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 20:27:49.112] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 20:27:49.234] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 20:27:49.364] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 20:27:49.525] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 20:27:49.683] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 20:27:50.105] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 20:27:50.385] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 20:27:50.512] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 20:27:50.985] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 20:27:51.127] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 20:27:51.587] [INFO] server - Set isXT = true;
+[2016-10-12 20:28:03.857] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Add Layer
+[2016-10-12 20:28:52.632] [INFO] server - Set isXT = true;
+[2016-10-12 20:29:03.055] [INFO] server - Set isXT = true;
+[2016-10-12 20:29:14.917] [INFO] app - App removed, id: 4
+[2016-10-12 20:29:24.567] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 20:29:25.298] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 20:29:25.308] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 20:29:25.336] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 20:29:25.340] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 20:29:25.343] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 20:29:25.346] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 20:29:25.349] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 20:29:25.352] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 20:29:25.359] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 20:29:25.362] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 20:29:25.365] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 20:29:25.375] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 20:29:25.379] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 20:29:25.382] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 20:29:25.397] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 20:29:25.623] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 20:29:25.750] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 20:29:25.907] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 20:29:26.033] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 20:29:26.145] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 20:29:26.205] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 20:29:26.325] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 20:29:26.830] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 20:29:26.949] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 20:29:27.005] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 20:29:27.115] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 20:29:27.636] [INFO] server - Set isXT = true;
+[2016-10-12 20:29:41.601] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Add Layer
+[2016-10-12 20:29:49.235] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Add Layer
+[2016-10-12 20:29:58.335] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Add Layer
+[2016-10-12 20:32:04.204] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-12 20:32:06.120] [INFO] repo - delete HTML.Add Layer
+[2016-10-12 20:32:06.318] [INFO] repo - insert HTML.AddLayer
+[2016-10-12 20:32:06.322] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-12 20:32:06.705] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-12 20:32:07.397] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-12 20:32:07.922] [INFO] server - Set isXT = true;
+[2016-10-12 20:32:27.174] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 20:32:27.778] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 20:32:27.788] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 20:32:27.819] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 20:32:27.822] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 20:32:27.825] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 20:32:27.829] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 20:32:27.833] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 20:32:27.836] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 20:32:27.842] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 20:32:27.846] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 20:32:27.849] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 20:32:27.856] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 20:32:27.859] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 20:32:27.862] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 20:32:27.878] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 20:32:28.126] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 20:32:28.242] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 20:32:28.371] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 20:32:28.503] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 20:32:28.660] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 20:32:29.016] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 20:32:29.154] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 20:32:29.309] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 20:32:29.445] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 20:32:29.505] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 20:32:29.622] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 20:32:29.995] [INFO] server - Set isXT = true;
+[2016-10-12 20:32:46.493] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddLayer
+[2016-10-12 20:33:53.495] [INFO] server - Set isXT = true;
+[2016-10-12 20:34:27.693] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-12 20:34:29.560] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-12 20:34:29.952] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-12 20:34:30.580] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-12 20:34:31.543] [INFO] server - Set isXT = true;
+[2016-10-12 20:34:40.387] [INFO] app - App removed, id: 5
+[2016-10-12 20:34:46.110] [INFO] app - App removed, id: 6
+[2016-10-12 20:34:56.323] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-12 20:34:56.853] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-12 20:34:56.876] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-12 20:34:56.933] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-12 20:34:56.937] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-12 20:34:56.940] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-12 20:34:56.943] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-12 20:34:56.946] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-12 20:34:56.949] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-12 20:34:56.956] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-12 20:34:56.959] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-12 20:34:56.963] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-12 20:34:56.971] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-12 20:34:56.975] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-12 20:34:56.980] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-12 20:34:56.997] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-12 20:34:57.223] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-12 20:34:57.337] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-12 20:34:57.458] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-12 20:34:57.711] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-12 20:34:57.833] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-12 20:34:57.915] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-12 20:34:58.058] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-12 20:34:58.205] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-12 20:34:58.430] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-12 20:34:58.532] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-12 20:34:58.644] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-12 20:34:58.984] [INFO] server - Set isXT = true;
+[2016-10-12 20:35:11.646] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddLayer
+[2016-10-12 20:35:53.734] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-12 20:35:55.860] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-12 20:35:56.201] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-12 20:35:56.742] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-12 20:35:57.568] [INFO] server - Set isXT = true;
+[2016-10-12 20:36:06.160] [INFO] server - Set isXT = true;
+[2016-10-12 20:36:18.877] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddLayer
+[2016-10-25 20:02:01.033] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-25 20:02:07.862] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-25 20:02:08.855] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-25 20:02:10.387] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-25 20:03:26.975] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-25 20:03:30.538] [INFO] server - Set isXT = true;
+[2016-10-25 20:03:30.840] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-25 20:03:31.526] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-25 20:03:32.599] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-25 20:04:08.938] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-25 20:04:11.122] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-25 20:04:11.164] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-25 20:04:11.352] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-25 20:04:11.357] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-25 20:04:11.361] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-25 20:04:11.366] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-25 20:04:11.372] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-25 20:04:11.375] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-25 20:04:11.383] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-25 20:04:11.389] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-25 20:04:11.392] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-25 20:04:11.401] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-25 20:04:11.415] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-25 20:04:11.418] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-25 20:04:11.457] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-25 20:04:12.163] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-25 20:04:12.496] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-25 20:04:12.705] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-25 20:04:12.981] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-25 20:04:13.174] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-25 20:04:13.241] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-25 20:04:13.444] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-25 20:04:13.698] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-25 20:04:13.911] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-25 20:04:13.986] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-25 20:04:14.166] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-25 20:04:14.748] [INFO] server - Set isXT = true;
+[2016-10-25 20:04:43.451] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddLayer
+[2016-10-25 20:13:30.827] [INFO] server - No portal URL is set, redirect /webappbuilder/?id=10 to /webappbuilder/?id=10&action=setportalurl
+[2016-10-25 20:13:31.016] [INFO] server - Set isXT = true;
+[2016-10-25 20:13:37.640] [INFO] server - No portal URL is set, redirect /webappbuilder/?id=10&action=hrwe to /webappbuilder/?id=10&action=setportalurl
+[2016-10-26 10:03:59.976] [INFO] server - Set isXT = true;
+[2016-10-26 10:04:21.437] [INFO] server - Set isXT = true;
+[2016-10-26 10:04:33.793] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\BillboardTheme
+[2016-10-26 10:50:28.859] [INFO] repo - insert HTML.AddExternalData
+[2016-10-26 10:55:23.314] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 10:55:25.627] [INFO] repo - delete HTML.AddExternalData
+[2016-10-26 10:55:25.630] [INFO] repo - insert HTML.AddExternalLayer
+[2016-10-26 10:55:25.634] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 10:55:26.137] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 10:55:27.346] [INFO] server - Set isXT = true;
+[2016-10-26 10:55:27.512] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 10:56:28.191] [INFO] app - App removed, id: 7
+[2016-10-26 10:56:34.287] [INFO] app - App removed, id: 8
+[2016-10-26 10:56:37.885] [INFO] server - Set isXT = true;
+[2016-10-26 10:58:31.029] [INFO] server - Set isXT = true;
+[2016-10-26 10:58:47.367] [INFO] server - Set isXT = true;
+[2016-10-26 11:00:15.565] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 11:00:17.861] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 11:00:18.443] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 11:00:19.520] [INFO] server - Set isXT = true;
+[2016-10-26 11:00:19.818] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 11:00:28.995] [INFO] server - Set isXT = true;
+[2016-10-26 11:00:49.374] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 11:00:50.032] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 11:00:50.042] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 11:00:50.087] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 11:00:50.090] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 11:00:50.093] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 11:00:50.100] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 11:00:50.103] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 11:00:50.106] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 11:00:50.116] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 11:00:50.120] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 11:00:50.123] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 11:00:50.132] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 11:00:50.136] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 11:00:50.139] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 11:00:50.158] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 11:00:50.464] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 11:00:50.589] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 11:00:50.733] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 11:00:50.881] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 11:00:51.036] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 11:00:51.127] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 11:00:51.265] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 11:00:51.530] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 11:00:51.721] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 11:00:51.784] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 11:00:52.013] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 11:00:52.666] [INFO] server - Set isXT = true;
+[2016-10-26 11:01:08.618] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternalLayer
+[2016-10-26 11:01:19.122] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternalLayer
+[2016-10-26 11:02:22.204] [INFO] server - Set isXT = true;
+[2016-10-26 11:03:43.115] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddLayer
+[2016-10-26 11:04:44.985] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternalLayer
+[2016-10-26 11:08:39.405] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 11:08:41.586] [INFO] repo - delete HTML.AddExternalLayer
+[2016-10-26 11:08:41.589] [INFO] repo - insert HTML.AddExternaLayer
+[2016-10-26 11:08:41.593] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 11:08:41.965] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 11:08:42.635] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 11:08:43.181] [INFO] server - Set isXT = true;
+[2016-10-26 11:09:03.369] [INFO] app - App removed, id: 9
+[2016-10-26 11:09:15.349] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 11:09:15.926] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 11:09:15.936] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 11:09:15.965] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 11:09:15.968] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 11:09:15.972] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 11:09:15.976] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 11:09:15.979] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 11:09:15.981] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 11:09:15.988] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 11:09:15.990] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 11:09:15.994] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 11:09:16.000] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 11:09:16.004] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 11:09:16.006] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 11:09:16.023] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 11:09:16.262] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 11:09:16.377] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 11:09:16.504] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 11:09:16.637] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 11:09:16.757] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 11:09:16.891] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 11:09:17.021] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 11:09:17.177] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 11:09:17.310] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 11:09:17.372] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 11:09:17.499] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 11:09:17.847] [INFO] server - Set isXT = true;
+[2016-10-26 11:09:42.834] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternaLayer
+[2016-10-26 11:18:17.063] [INFO] server - Set isXT = true;
+[2016-10-26 11:18:25.597] [INFO] server - Set isXT = true;
+[2016-10-26 11:18:33.633] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=12 to /webappbuilder/apps/12
+[2016-10-26 11:18:33.854] [INFO] server - Set isXT = true;
+[2016-10-26 11:18:41.627] [INFO] server - Set isXT = true;
+[2016-10-26 11:19:36.920] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 11:19:38.990] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 11:19:39.351] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 11:19:40.039] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 11:19:40.724] [INFO] server - Set isXT = true;
+[2016-10-26 11:19:54.840] [INFO] server - Set isXT = true;
+[2016-10-26 11:19:59.029] [INFO] server - Set isXT = true;
+[2016-10-26 11:20:35.177] [INFO] server - Set isXT = true;
+[2016-10-26 11:21:17.082] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 11:21:17.876] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 11:21:17.891] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 11:21:18.025] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 11:21:18.033] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 11:21:18.039] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 11:21:18.045] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 11:21:18.052] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 11:21:18.057] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 11:21:18.067] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 11:21:18.072] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 11:21:18.076] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 11:21:18.085] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 11:21:18.090] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 11:21:18.095] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 11:21:18.125] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 11:21:18.393] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 11:21:18.563] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 11:21:18.715] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 11:21:18.842] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 11:21:18.962] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 11:21:19.026] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 11:21:19.158] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 11:21:19.585] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 11:21:19.728] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 11:21:19.797] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 11:21:19.917] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 11:21:20.356] [INFO] server - Set isXT = true;
+[2016-10-26 11:21:33.049] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternaLayer
+[2016-10-26 11:29:32.840] [INFO] server - Set isXT = true;
+[2016-10-26 11:30:04.042] [INFO] server - Set isXT = true;
+[2016-10-26 11:34:36.763] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 11:34:39.054] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 11:34:39.534] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 11:34:40.709] [INFO] server - Set isXT = true;
+[2016-10-26 11:34:40.931] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 11:35:02.771] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 11:35:03.588] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 11:35:03.600] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 11:35:03.638] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 11:35:03.642] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 11:35:03.646] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 11:35:03.652] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 11:35:03.655] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 11:35:03.658] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 11:35:03.666] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 11:35:03.670] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 11:35:03.675] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 11:35:03.699] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 11:35:03.707] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 11:35:03.710] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 11:35:03.734] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 11:35:04.191] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 11:35:04.347] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 11:35:04.540] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 11:35:04.696] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 11:35:04.863] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 11:35:04.933] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 11:35:05.074] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 11:35:05.309] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 11:35:05.517] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 11:35:05.608] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 11:35:05.781] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 11:35:06.597] [INFO] server - Set isXT = true;
+[2016-10-26 11:35:36.856] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternaLayer
+[2016-10-26 11:37:28.360] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 11:37:30.337] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 11:37:30.684] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 11:37:31.314] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 11:37:32.194] [INFO] server - Set isXT = true;
+[2016-10-26 11:37:38.918] [INFO] server - Set isXT = true;
+[2016-10-26 11:38:07.385] [INFO] app - App removed, id: 14
+[2016-10-26 11:38:17.961] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 11:38:18.615] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 11:38:18.647] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 11:38:18.739] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 11:38:18.747] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 11:38:18.755] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 11:38:18.770] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 11:38:18.779] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 11:38:18.787] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 11:38:18.816] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 11:38:18.823] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 11:38:18.829] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 11:38:18.844] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 11:38:18.850] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 11:38:18.856] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 11:38:18.880] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 11:38:19.270] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 11:38:19.445] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 11:38:19.603] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 11:38:19.900] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 11:38:20.131] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 11:38:20.258] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 11:38:20.509] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 11:38:20.724] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 11:38:20.889] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 11:38:20.979] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 11:38:21.141] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 11:38:21.794] [INFO] server - Set isXT = true;
+[2016-10-26 11:38:32.461] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternaLayer
+[2016-10-26 11:39:29.170] [INFO] server - Set isXT = true;
+[2016-10-26 11:39:41.101] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\server\apps\15\
+[2016-10-26 11:39:45.257] [INFO] app - Duplicate app undefined to NewApps_copy-1
+[2016-10-26 11:40:02.165] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 11:40:02.884] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 11:40:02.900] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 11:40:02.948] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 11:40:02.953] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 11:40:02.959] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 11:40:02.966] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 11:40:02.971] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 11:40:02.978] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 11:40:02.991] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 11:40:03.000] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 11:40:03.005] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 11:40:03.020] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 11:40:03.026] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 11:40:03.033] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 11:40:03.065] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 11:40:03.413] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 11:40:03.758] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 11:40:04.128] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 11:40:04.501] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 11:40:04.796] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 11:40:04.903] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 11:40:05.128] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 11:40:05.411] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 11:40:05.651] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 11:40:05.770] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 11:40:06.014] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 11:40:07.086] [INFO] server - Set isXT = true;
+[2016-10-26 11:40:19.433] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternaLayer
+[2016-10-26 11:41:25.674] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 11:41:27.731] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 11:41:28.243] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 11:41:29.144] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 11:41:29.574] [INFO] server - Set isXT = true;
+[2016-10-26 11:41:39.705] [INFO] app - App removed, id: 17
+[2016-10-26 11:41:47.011] [INFO] app - App removed, id: 15
+[2016-10-26 11:41:53.790] [INFO] app - App removed, id: 12
+[2016-10-26 11:41:59.753] [INFO] app - App removed, id: 13
+[2016-10-26 11:42:05.136] [INFO] app - App removed, id: 16
+[2016-10-26 11:42:11.247] [INFO] app - App removed, id: 11
+[2016-10-26 11:42:19.012] [INFO] app - App removed, id: 10
+[2016-10-26 11:42:27.968] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 11:42:29.019] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 11:42:29.046] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 11:42:29.099] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 11:42:29.105] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 11:42:29.111] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 11:42:29.120] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 11:42:29.127] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 11:42:29.135] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 11:42:29.153] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 11:42:29.160] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 11:42:29.168] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 11:42:29.184] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 11:42:29.191] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 11:42:29.197] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 11:42:29.228] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 11:42:29.688] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 11:42:29.851] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 11:42:29.987] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 11:42:30.121] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 11:42:30.257] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 11:42:30.319] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 11:42:30.505] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 11:42:30.774] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 11:42:30.962] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 11:42:31.051] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 11:42:31.261] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 11:42:31.833] [INFO] server - Set isXT = true;
+[2016-10-26 11:42:43.699] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddExternaLayer
+[2016-10-26 11:52:16.130] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 11:52:18.331] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 11:52:18.710] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 11:52:19.431] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 11:54:55.604] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\BasemapGallery
+[2016-10-26 12:13:14.012] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 12:13:16.073] [INFO] repo - insert HTML.AddMyLayer
+[2016-10-26 12:13:16.077] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 12:13:16.689] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 12:13:17.567] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 12:13:42.429] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 12:13:44.441] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 12:13:44.850] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 12:13:45.476] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 12:13:59.358] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 12:14:01.321] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 12:14:01.756] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 12:14:02.311] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 12:14:33.596] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 12:14:35.840] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 12:14:36.200] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 12:14:36.744] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 12:15:22.103] [INFO] server - Set isXT = true;
+[2016-10-26 12:16:27.832] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 12:16:29.908] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 12:16:30.265] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 12:16:30.833] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 12:30:19.159] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-10-26 12:30:25.500] [INFO] server - No token is found, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2016-10-26 12:30:25.647] [INFO] server - Set isXT = true;
+[2016-10-26 12:30:26.383] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-10-26 12:30:27.633] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-10-26 12:30:29.637] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-10-26 12:30:57.916] [INFO] server - Set isXT = true;
+[2016-10-26 12:31:19.097] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 12:31:23.083] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 12:31:23.168] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 12:31:23.422] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 12:31:23.437] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 12:31:23.437] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 12:31:23.437] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 12:31:23.453] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 12:31:23.453] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 12:31:23.469] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 12:31:23.469] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 12:31:23.484] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 12:31:23.484] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 12:31:23.506] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 12:31:23.506] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 12:31:23.537] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 12:31:24.170] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 12:31:24.407] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 12:31:24.686] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 12:31:25.209] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 12:31:25.409] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 12:31:25.488] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 12:31:25.688] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 12:31:26.058] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 12:31:26.342] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 12:31:26.443] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 12:31:26.690] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 12:31:27.276] [INFO] server - Set isXT = true;
+[2016-10-26 12:31:47.321] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AddMyLayer
+[2016-10-26 12:32:20.574] [INFO] server - Set isXT = true;
+[2016-10-26 12:32:33.249] [INFO] server - Set isXT = true;
+[2016-10-26 12:32:42.438] [INFO] server - Set isXT = true;
+[2016-10-26 12:35:42.125] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Edit
+[2016-10-26 12:45:45.142] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\jimu.js
+[2016-10-26 12:45:46.331] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\images
+[2016-10-26 12:45:46.346] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\libs
+[2016-10-26 12:45:46.392] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\index.html
+[2016-10-26 12:45:46.396] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\env.js
+[2016-10-26 12:45:46.400] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\simpleLoader.js
+[2016-10-26 12:45:46.404] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\init.js
+[2016-10-26 12:45:46.407] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\web.config
+[2016-10-26 12:45:46.411] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\dynamic-modules
+[2016-10-26 12:45:46.421] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\readme.html
+[2016-10-26 12:45:46.426] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\config-readme.txt
+[2016-10-26 12:45:46.430] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\configs
+[2016-10-26 12:45:46.439] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintrc
+[2016-10-26 12:45:46.443] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\.jshintignore
+[2016-10-26 12:45:46.447] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\3rd-party-license.txt
+[2016-10-26 12:45:46.473] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes\FoldableTheme
+[2016-10-26 12:45:46.892] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Scalebar
+[2016-10-26 12:45:47.129] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Search
+[2016-10-26 12:45:47.310] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Coordinate
+[2016-10-26 12:45:47.524] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\OverviewMap
+[2016-10-26 12:45:47.725] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\HomeButton
+[2016-10-26 12:45:47.825] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\MyLocation
+[2016-10-26 12:45:48.292] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\AttributeTable
+[2016-10-26 12:45:48.552] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Splash
+[2016-10-26 12:45:48.686] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\ZoomSlider
+[2016-10-26 12:45:48.750] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Legend
+[2016-10-26 12:45:48.877] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\LayerList
+[2016-10-26 12:45:49.811] [INFO] server - Set isXT = true;
+[2016-10-26 12:46:26.327] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Edit
+[2016-10-26 12:46:45.426] [INFO] server - Set isXT = true;
+[2016-11-09 18:46:07.369] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-11-09 18:46:11.065] [INFO] server - No portal URL is set, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2016-11-09 18:46:11.076] [INFO] server - No token is found, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2016-11-09 18:46:11.208] [INFO] server - Set isXT = true;
+[2016-11-09 18:46:11.223] [INFO] server - Set isXT = true;
+[2016-11-09 18:46:12.412] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-11-09 18:46:14.409] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-11-09 18:46:15.902] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-11-09 18:46:26.047] [INFO] server - No token is found, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2016-11-09 18:46:26.094] [INFO] server - Set isXT = true;
+[2016-11-09 18:46:35.331] [INFO] server - Set isXT = true;
+[2016-11-09 18:46:39.401] [INFO] server - Set isXT = true;
+[2016-11-09 18:47:12.559] [INFO] server - Set isXT = true;
+[2016-11-09 18:48:06.936] [INFO] server - Set isXT = true;
+[2016-11-09 18:57:38.579] [INFO] server - Set isXT = true;
+[2016-11-09 18:59:06.671] [INFO] server - Set isXT = true;
+[2016-11-09 18:59:29.218] [INFO] server - Set isXT = true;
+[2016-11-09 19:00:07.810] [INFO] server - Set isXT = true;
+[2016-11-09 19:03:09.257] [INFO] server - Set isXT = true;
+[2016-11-09 19:03:23.724] [INFO] server - Set isXT = true;
+[2016-11-09 19:04:05.196] [INFO] server - Set isXT = true;
+[2016-11-09 19:05:55.809] [INFO] server - Set isXT = true;
+[2016-11-09 19:06:37.938] [INFO] server - Set isXT = true;
+[2016-11-09 19:06:55.840] [INFO] server - Set isXT = true;
+[2016-11-09 19:07:35.153] [INFO] server - Set isXT = true;
+[2016-11-09 19:09:26.839] [INFO] server - Set isXT = true;
+[2016-11-09 19:09:32.302] [INFO] server - Set isXT = true;
+[2016-11-09 19:09:49.758] [INFO] server - Set isXT = true;
+[2016-11-09 19:09:56.333] [INFO] server - Set isXT = true;
+[2016-11-09 19:10:22.879] [INFO] server - Set isXT = true;
+[2016-11-09 19:14:59.067] [INFO] server - Set isXT = true;
+[2016-11-09 19:15:13.327] [INFO] server - Set isXT = true;
+[2016-11-09 19:23:11.084] [INFO] server - Set isXT = true;
+[2016-11-09 19:24:22.252] [INFO] server - Set isXT = true;
+[2016-11-09 19:25:04.865] [INFO] server - Set isXT = true;
+[2016-11-09 19:31:01.520] [INFO] server - Set isXT = true;
+[2016-11-09 19:31:57.760] [INFO] server - Set isXT = true;
+[2016-11-09 19:32:21.346] [INFO] server - Set isXT = true;
+[2016-11-09 19:32:37.448] [INFO] server - Set isXT = true;
+[2016-11-09 19:33:58.935] [INFO] server - Set isXT = true;
+[2016-11-09 19:34:14.327] [INFO] server - Set isXT = true;
+[2016-11-09 19:42:35.977] [INFO] server - Set isXT = true;
+[2016-11-09 19:42:42.873] [INFO] server - Set isXT = true;
+[2016-11-09 19:42:49.457] [INFO] server - Set isXT = true;
+[2016-11-09 19:43:42.236] [INFO] server - Set isXT = true;
+[2016-11-09 19:51:01.779] [INFO] server - Set isXT = true;
+[2016-11-09 20:09:27.519] [INFO] server - Set isXT = true;
+[2016-11-09 20:09:44.073] [INFO] server - Set isXT = true;
+[2016-11-09 20:10:37.748] [INFO] server - Set isXT = true;
+[2016-11-09 20:11:02.065] [INFO] server - Set isXT = true;
+[2016-11-09 20:12:03.528] [INFO] server - Set isXT = true;
+[2016-11-09 20:14:14.662] [INFO] server - Set isXT = true;
+[2016-11-09 20:14:42.816] [INFO] server - Set isXT = true;
+[2016-11-09 20:14:48.264] [INFO] server - Set isXT = true;
+[2016-11-09 20:15:45.520] [INFO] server - Set isXT = true;
+[2016-11-09 20:16:52.529] [INFO] server - Set isXT = true;
+[2016-11-09 20:17:45.643] [INFO] server - Set isXT = true;
+[2016-11-09 20:18:29.799] [INFO] server - Set isXT = true;
+[2016-11-09 20:19:00.068] [INFO] server - Set isXT = true;
+[2016-11-09 20:21:45.922] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Chart
+[2016-11-09 20:25:10.135] [INFO] server - Set isXT = true;
+[2016-11-09 20:30:32.698] [DEBUG] utils - copy D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets\Filter
+[2016-11-10 13:42:06.545] [INFO] server - Set isXT = true;
+[2016-11-10 19:27:17.568] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-11-10 19:27:22.782] [INFO] server - Set isXT = true;
+[2016-11-10 19:27:23.740] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-11-10 19:27:24.713] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-11-10 19:27:26.066] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-11-10 19:27:33.033] [INFO] server - Set isXT = true;
+[2016-11-10 19:27:34.730] [INFO] server - Set isXT = true;
+[2016-11-13 20:40:27.301] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-11-13 20:40:27.509] [INFO] server - No portal URL is set, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2016-11-13 20:40:27.614] [INFO] server - Set isXT = true;
+[2016-11-13 20:40:36.153] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-11-13 20:40:36.972] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-11-13 20:40:38.346] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-11-13 20:42:36.805] [INFO] server - Set isXT = true;
+[2016-11-13 20:42:56.311] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=20 to /webappbuilder/apps/20
+[2016-11-13 20:42:56.380] [INFO] server - Set isXT = true;
+[2016-11-13 20:42:59.254] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=19 to /webappbuilder/apps/19
+[2016-11-13 20:42:59.450] [INFO] server - Set isXT = true;
+[2016-11-13 20:43:01.226] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=18 to /webappbuilder/apps/18
+[2016-11-13 20:43:02.705] [INFO] server - Set isXT = true;
+[2016-11-21 16:58:18.215] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-11-21 16:58:22.759] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-11-21 16:58:23.522] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-11-21 16:58:24.588] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-11-21 16:58:30.211] [INFO] server - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2016-11-21 16:58:30.299] [INFO] server - Set isXT = true;
+[2016-11-21 17:32:19.164] [INFO] server - Set isXT = true;
+[2016-11-21 17:32:59.534] [INFO] server - Set isXT = true;
+[2016-11-21 18:03:12.919] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-11-21 18:03:15.830] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-11-21 18:03:16.474] [INFO] server - Set isXT = true;
+[2016-11-21 18:03:16.864] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-11-21 18:03:17.674] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-11-24 16:40:07.832] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-11-24 16:40:12.334] [INFO] server - No token is found, redirect /webappbuilder to /webappbuilder?action=setportalurl
+[2016-11-24 16:40:12.428] [INFO] server - Set isXT = true;
+[2016-11-24 16:40:13.140] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-11-24 16:40:14.108] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-11-24 16:40:15.271] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-11-24 16:40:39.308] [INFO] server - Set isXT = true;
+[2016-11-24 16:40:44.462] [INFO] server - redirect  /webappbuilder/stemapp/index.html?id=20 to /webappbuilder/apps/20
+[2016-11-24 16:40:44.527] [INFO] server - Set isXT = true;
+[2016-12-25 16:01:06.434] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-12-25 16:01:12.235] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-12-25 16:01:13.151] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-12-25 16:01:14.262] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-12-26 15:18:32.591] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-12-26 15:18:44.631] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-12-26 15:18:46.207] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-12-26 15:18:48.179] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
+[2016-12-26 15:19:23.275] [INFO] server - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2016-12-26 15:19:29.760] [INFO] server - Set isXT = true;
+[2016-12-26 19:12:59.275] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\widgets
+[2016-12-26 19:13:10.473] [INFO] server - No token is found, redirect /webappbuilder/ to /webappbuilder/?action=setportalurl
+[2016-12-26 19:13:10.706] [INFO] server - Set isXT = true;
+[2016-12-26 19:13:11.749] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp\themes
+[2016-12-26 19:13:12.906] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\widgets
+[2016-12-26 19:13:14.833] [INFO] repo - Read repository items: D:\Work\Projects\CapmasWFP\WebAppBuilderForArcGIS\client\stemapp3d\themes
